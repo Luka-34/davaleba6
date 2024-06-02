@@ -5,8 +5,20 @@
 }
 
 .btn {
-    background-color: black;
-    padding: 10px;
+    background-color: rgb(194, 42, 0);
+    padding: 20px;
     color: #ffffff;
     border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    right: 48%;
+}
+
+.modal {
+    width: 500px;
+    height: 250px;
+    background-color: #ffffff;
+    margin-top: 50px;
 }
